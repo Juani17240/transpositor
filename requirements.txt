@@ -1,0 +1,4 @@
+flask
+flask-cors
+music21
+requests
